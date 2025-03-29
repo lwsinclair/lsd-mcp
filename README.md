@@ -9,6 +9,8 @@ You will see Claude connect to the internet and:
 * Self-correct LSD SQL
 * Run LSD SQL that's connected to cloud browsers
 
+## Demo
+
 Here's a demo of what that looks like in action:
 
 ![Getting trending repositories using LSD](/media/5x_speed.gif)
