@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lsd-so-lsd-mcp-badge.png)](https://mseep.ai/app/lsd-so-lsd-mcp)
+
 # LSD MCP server
 
 ![Image displaying MCP](/media/explanation.jpg)
